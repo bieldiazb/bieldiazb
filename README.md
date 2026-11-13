@@ -11,7 +11,6 @@
 
 <p align="center">
   <a href="https://bieldiazbasullas.com"><img src="https://img.shields.io/badge/Portfolio-bieldiazbasullas.com-0a0a0a?style=for-the-badge&logo=safari&logoColor=white"/></a>
-  <a href="https://arrelstudio.cat"><img src="https://img.shields.io/badge/Studio-Arrel_Studio-0a0a0a?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
   <a href="mailto:bieldiazbasullas@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk_→-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -73,11 +72,11 @@ I work directly with my clients, **no middlemen, no templates**, and I tweak the
       <img src="https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://arrelstudio.cat">Arrel Studio →</a></h3>
-      <i>Roots in the Bages.</i><br/><br/>
-      My web design studio for local businesses and professionals in Catalonia.<br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/WordPress-0a0a0a?style=flat-square&logo=wordpress&logoColor=white"/>
+      <h3><a href="https://camsub10.site">CamSub10 →</a></h3>
+      <i>Every swimmer, every category.</i><br/><br/>
+      Web app for a swim club, now growing to cover all age categories.<br/><br/>
+      <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-0a0a0a?style=flat-square&logo=firebase&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -136,7 +135,6 @@ Got a site that needs fixing, or an idea for an app? Tell me about it.
 <p align="center">
   <a href="mailto:bieldiazbasullas@gmail.com"><img src="https://img.shields.io/badge/Email_me-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://bieldiazbasullas.com"><img src="https://img.shields.io/badge/See_my_work-0a0a0a?style=for-the-badge&logo=safari&logoColor=white"/></a>
-  <a href="https://arrelstudio.cat"><img src="https://img.shields.io/badge/Arrel_Studio-0a0a0a?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
 </p>
 
 <p align="center"><sub>Need a break? <a href="https://bieldiazbasullas.com">Shoot some hoops →</a></sub></p>
