@@ -1,85 +1,59 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:4a4a4a&height=200&section=header&text=biel%20d%C3%ADaz%20basullas&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Custom%20websites%20%26%20apps&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:4a4a4a&height=200&section=header&text=biel%20d%C3%ADaz%20basullas&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Webs%20i%20apps%20a%20mida.&descSize=20&descAlignY=62&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1400&color=8A8A8A&center=true&vCenter=true&width=560&height=30&lines=Clear+tools.+No+middlemen.;Frontend+developer+%C2%B7+UI%2FUX+designer;React+%C2%B7+Next.js+%C2%B7+WordPress+%C2%B7+Firebase;Based+in+the+Bages%2C+Catalonia" alt="Typing animation"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1400&color=8A8A8A&center=true&vCenter=true&width=560&height=30&lines=Custom+websites+and+apps.;Clear+tools.+No+middlemen.;React+%C2%B7+Next.js+%C2%B7+WordPress+%C2%B7+Firebase;Manresa+%C2%B7+the+Bages+%C2%B7+Catalonia" alt="Typing animation"/>
 </p>
 
 <p align="center">
   <a href="https://bieldiazbasullas.com"><img src="https://img.shields.io/badge/Portfolio-bieldiazbasullas.com-0a0a0a?style=for-the-badge&logo=safari&logoColor=white"/></a>
-  <a href="mailto:bieldiazbasullas@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk_→-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:bieldiazbasullas@gmail.com"><img src="https://img.shields.io/badge/Email-Parlem_→-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <br/>
 
-## `00` &nbsp;Hello
+## `00` &nbsp;Hi, I'm Biel.
 
-**Hi, I'm Biel.** I help people and businesses across the Bages region and Catalonia get websites that are clear, tidy and easy to use. I fix confusing or neglected sites, and I build custom web apps when a template won't cut it.
+I help people and businesses across Manresa, the Bages and Catalonia get websites that are clear, tidy and easy to use. I fix confusing or neglected sites, mostly with React, Firebase and WordPress, and I pick the tool that fits each project.
 
-I work directly with my clients, **no middlemen, no templates**, and I tweak the proposal until the site does its job.
+I work directly with my clients, **no middlemen, no templates**, and I adjust the proposal until the site does its job.
 
 <table align="center">
   <tr>
-    <td align="center" width="180"><h2>3+</h2><sub>YEARS BUILDING<br/>FOR THE WEB</sub></td>
-    <td align="center" width="180"><h2>20+</h2><sub>PROJECTS<br/>DELIVERED</sub></td>
-    <td align="center" width="180"><h2>3</h2><sub>PRODUCTS<br/>SHIPPED TO CLIENTS</sub></td>
+    <td align="center" width="200"><h2>5+</h2><sub>YEARS BUILDING<br/>FOR THE WEB</sub></td>
+    <td align="center" width="200"><h2>20+</h2><sub>PROJECTS<br/>DELIVERED</sub></td>
   </tr>
 </table>
 
 <br/>
 
-## `01` &nbsp;What I do
+## `01` &nbsp;What I can do for you
 
-| | |
-|---|---|
-| **01 · Websites** | WordPress and custom sites for local businesses, fast and easy for clients to edit. |
-| **02 · Web apps** | React / Next.js apps connected to real databases, with dashboards, auth and payments. |
-| **03 · Management tools** | Back-offices for clubs, schools and small teams: members, schedules, invoices. |
-| **04 · Redesigns** | Taking a confusing or neglected site and making it clear again. |
-| **05 · UI / UX** | Interfaces designed first, then built, with smooth and polished motion. |
+| | | |
+|---|---|---|
+| **01** | **Custom management apps** | Tools for clients, bookings, inventory and everyday tasks. |
+| **02** | **Gym management** | Members, fees, timetables and class bookings in one app. |
+| **03** | **Custom web portfolios** | Built from scratch, without templates. |
+| **04** | **Basic WordPress sites** | Simple, fast sites you can update yourself. |
+| **05** | **SEO management** | Technical review, content and Google Business profile. |
+| **06** | **SEO audit** | What stops your site from ranking, as a prioritised report. |
+| **07** | **Apps for small businesses** | Digital tools for small teams: quotes, orders, tasks. |
 
 <br/>
 
-## `02` &nbsp;Projects
+## `02` &nbsp;Recent work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://repwise.dev">Repwise →</a></h3>
-      <i>Fill every class. Chase no one.</i><br/><br/>
-      Management for personal trainers and small clubs: members, classes, payments.<br/><br/>
-      <img src="https://img.shields.io/badge/Laravel-0a0a0a?style=flat-square&logo=laravel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SaaS-0a0a0a?style=flat-square"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://camescola.cat">CamEscola →</a></h3>
-      <i>Follow every mark. Celebrate every race.</i><br/><br/>
-      Athletics platform for a school club, with a parents view and an admin view.<br/><br/>
-      <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Firebase-0a0a0a?style=flat-square&logo=firebase&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://dorsalapp.cat">Dorsal →</a></h3>
-      <i>Sports schools, organised.</i><br/><br/>
-      Web app to manage sports schools, sold to clubs on an annual subscription.<br/><br/>
-      <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://camsub10.site">CamSub10 →</a></h3>
-      <i>Every swimmer, every category.</i><br/><br/>
-      Web app for a swim club, now growing to cover all age categories.<br/><br/>
-      <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Firebase-0a0a0a?style=flat-square&logo=firebase&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+| | | |
+|---|---|---|
+| **01** | [**Repwise**](https://repwise.dev) → | Own product, 2026. Management app for personal trainers and small clubs.<br/>*Fill every class. Chase no one.* |
+| **02** | **Swish & Legacy** | Web game, 2026. A free basketball career simulator that runs in the browser. |
+| **03** | [**CamEscola**](https://camescola.cat) → | Management platform, 2026. A platform for an athletics school.<br/>*Follow every mark. Celebrate every race.* |
+| **04** | **Sergi Garcia Training** | Custom app, 2025. A shared training calendar with session feedback. |
+| **05** | **Tresdegé** | Portfolio, 2026. A portfolio site for a Barcelona graphic design studio. |
+
+<p align="right"><a href="https://bieldiazbasullas.com">See all the work →</a></p>
 
 <br/>
 
@@ -128,16 +102,18 @@ I compete in athletics and coach small training groups, which is where my love f
 
 <br/>
 
-## `06` &nbsp;Let's talk
+## `06` &nbsp;Got a project in mind?
 
-Got a site that needs fixing, or an idea for an app? Tell me about it.
+Describe it, or just say hello. I usually reply within 24 hours.
 
 <p align="center">
-  <a href="mailto:bieldiazbasullas@gmail.com"><img src="https://img.shields.io/badge/Email_me-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://bieldiazbasullas.com"><img src="https://img.shields.io/badge/See_my_work-0a0a0a?style=for-the-badge&logo=safari&logoColor=white"/></a>
+  <a href="mailto:bieldiazbasullas@gmail.com"><img src="https://img.shields.io/badge/Parlem-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://bieldiazbasullas.com"><img src="https://img.shields.io/badge/Veure_la_feina-0a0a0a?style=for-the-badge&logo=safari&logoColor=white"/></a>
 </p>
 
 <p align="center"><sub>Need a break? <a href="https://bieldiazbasullas.com">Shoot some hoops →</a></sub></p>
+
+<p align="center"><i>Fem alguna cosa clara i ben feta.</i></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a4a4a,100:0a0a0a&height=110&section=footer" width="100%"/>
